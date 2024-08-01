@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOUT ME</title>
+    <style>
+        body{
+            
+            background-image: url(data:image/jpeg;base64,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);
+            
+        }
+        img{margin-top: 10px;
+            display: flexbox;
+            padding: 20px;
+            height: 200px;
+            border: 2px solid violet;
+            border-radius: 10px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            
+            align-content: center;
+            align-self: center;
+            
+            
+            background-color: orange;
+        }
+        .heading{color: white;
+            text-align: left;
+            font-size: large;
+            font-family: sans-serif;
+            }
+        #para{color: white;
+            text-align: left;
+            font-size: medium;
+            font-family: sans-serif;
+            
+            
+        }
+        #para2{color: white;
+            text-align: left;
+            font-family: sans-serif;
+            
+        }
+       
+        #para3{color: white;
+            text-align: left;
+            font-size: small;
+            font-family: sans-serif;
+            
+        }
+        #para4{color: white;
+            text-align: left;
+            font-size: large;
+            font-family: sans-serif;
+            
+        }
+        #para5{color: white;
+            text-align: center;
+            font-size: large;
+            
+        }
+        section{color: white;
+            text-align: center;
+            font-size: small;
+            font-family: sans-serif;
+
+        }
+        #para6{color: white;
+            text-align: center;
+            font-size: small;
+            font-family: sans-serif;
+
+           
+        }
+        #para7{color: white;
+            text-align: center;
+            font-size: small;
+            font-family: sans-serif;
+        }
+        #para8{color: white;
+            text-align: center;
+            font-size: small;
+            font-family: sans-serif;
+            
+        }
+        #para9{color: white;
+            text-align: center;
+            font-size: small;
+            font-family: sans-serif;
+            
+        }
+    </style>
+</head>
+<body>
+    <img src=https://media.licdn.com/dms/image/D5603AQHEgbBJB86kfQ/profile-displayphoto-shrink_400_400/0/1711956894298?e=1727308800&v=beta&t=NwURLv2q5N_DyQWeB9CZRDuTU6awhiAnmht8wbh6EqM  height="200PX">
+    <div class="heading"><h3><u>Sounak Sarkar</h3></div>
+    <div id="para"><p> Pursuing computer science engineering and specialization in Artificial intelligence and Machine Learning from DSCSITSC</p></div>
+    <div id="para2"><p>DR.SUDHIR CHANDRA SUR DEGREE ENGINEERING COLLEGE 255</p></div>
+    <DIV id="para3"> kolkata, West Bengal, India</DIV>
+    <br>
+    <div id="para4"><a href="https://linktr.ee/sounakss7">WEBSITE</a></div>
+    <div id="para5"><h3><u>ABOUT</h3></div>
+    <div id="para6"><p>Hi, I am an undergrad student at DR.SUDHIR CHANDRA SUR DEGREE ENGINEERING COLLEGE 255.Currently pursuing CSE-AIML Branch of engineering. I am passionate about learning new technologies in the field of computer science and utilising it in the field of the computer science and utlising it in the field of tech- industry</p></div>
+    <main style="color: white;"><h3 style="text-align: center;"><u style="font-family: sans-serif;">EDUCATION</u></h3><section>
+        DR.SUDHIR CHANDRA SUR DEGREE ENGINEERING COLLEGE 255.<br>
+    CSE-AIML,COMPUTER SCIENCE<br>
+    OCT 2022-OCT 2026<br>
+    GRADE:7.50 (CURRENT 4th SEM )
+<hr>
+FUTURE CAMPUS SCHOOL.<br>
+FOUNDATIONS(X)+SCIENCE STREAM(XII)<br>
+JAN 2015-JAN 2022<br>
+GRADE: CLASS 10-77%<br>
+GRADE: CLASS 12-80.4%<HR>
+</section>
+<DIV id="para7"><H3><u>SKILLS</H3></DIV></main>
+<DIV id="para8" style="color: white;"><P><H4><nav> CASCADING STYLE SHEET<BR> OBJECT- ORIENTED PROGRAMING<BR>NUMPY<BR>DBMS<BR>C LANGUAGE<BR>PYTHON<BR>DSA<BR>HTML<BR>JAVA<br></nav></H4></P></DIV>
+<hr>
+<div id="para9"><u><h3>CONTACT DETAILS</h3></u>
+<p> email id:  <a href="sounaks139@gmail.com">sounaks139@gmail.com</a><br>
+PHONE NO: 8881184644</p>
+</div>
+</body>
+</html>
