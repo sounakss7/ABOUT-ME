@@ -3,10 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ABOUT ME</title>
-    <style>
-        body{
-            
 </head>
 <body>
     <img src=https://media.licdn.com/dms/image/D5603AQHEgbBJB86kfQ/profile-displayphoto-shrink_400_400/0/1711956894298?e=1727308800&v=beta&t=NwURLv2q5N_DyQWeB9CZRDuTU6awhiAnmht8wbh6EqM  height="200PX">
