@@ -1,1 +1,1 @@
-!url:(https://sounakss7.github.io/ABOUT-ME/)
+![Example image](https://sounakss7.github.io/ABOUT-ME/)
