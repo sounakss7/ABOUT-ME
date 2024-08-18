@@ -13,7 +13,9 @@
     <br>
     <div id="para4"><a href="https://linktr.ee/sounakss7">WEBSITE</a></div>
     <div id="para5"><h3><u>ABOUT</h3></div>
-    <div id="para6"><p>Hi, I am an undergrad student at DR.SUDHIR CHANDRA SUR DEGREE ENGINEERING COLLEGE 255.Currently pursuing CSE-AIML Branch of engineering. I am passionate about learning new technologies in the field of computer science and utilising it in the field of the computer science and utlising it in the field of tech- industry</p></div>
+    <div id="para6"><p>Hi, I am an undergrad student at Dr. Sudhir Chandra Sur Institute of Technology . 
+Currently pursuing CSE-AIML Branch of engineering.
+I am passionate about learning new technologies in the field of computer science and enhancing development in the field of tech- industry.</p></div>
     <hr>
     <main style="color: white;"><h3 style="text-align: center;"><u style="font-family: sans-serif;">EDUCATION</u></h3><section>
         DR.SUDHIR CHANDRA SUR DEGREE ENGINEERING COLLEGE 255.<br>
